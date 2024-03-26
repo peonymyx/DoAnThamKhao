@@ -1,0 +1,18 @@
+D:\Workspace\HCSDL\DangKyHocPhanSV\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Workspace\HCSDL\DangKyHocPhanSV\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Workspace\HCSDL\DangKyHocPhanSV\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Workspace\HCSDL\DangKyHocPhanSV\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Workspace\HCSDL\DangKyHocPhanSV\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Workspace\HCSDL\DangKyHocPhanSV\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

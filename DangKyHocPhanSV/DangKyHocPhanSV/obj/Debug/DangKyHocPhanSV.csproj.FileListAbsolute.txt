@@ -1,0 +1,93 @@
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\bin\Debug\DangKyHocPhanSV.exe.config
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\bin\Debug\DangKyHocPhanSV.exe
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\bin\Debug\DangKyHocPhanSV.pdb
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\bin\Debug\BusinessLogicLayer.dll
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\bin\Debug\DataAccessLayer.dll
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\bin\Debug\BusinessLogicLayer.pdb
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\bin\Debug\DataAccessLayer.pdb
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.csproj.AssemblyReference.cache
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmDangNhap.resources
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.Properties.Resources.resources
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.csproj.GenerateResource.cache
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.csproj.CoreCompileInputs.cache
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.csproj.CopyComplete
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.exe
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.pdb
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmTrangSinhVien.resources
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmTrangAdmin.resources
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmQuanLySinhVien.resources
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmLopSV.resources
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmGiangVien.resources
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmQuanLyKhoaNganh.resources
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmQuanLyPhongHoc.resources
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmQuanLyMonHoc.resources
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmTraCuuMonHoc.resources
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmThoiKhoaBieuSV.resources
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmTrangGiangVien.resources
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmDanhSachLopHocGV.resources
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmDangKyMonHoc.resources
+D:\Workspace\HCSDL\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmDangKy.resources
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\bin\Debug\DangKyHocPhanSV.exe.config
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\bin\Debug\DangKyHocPhanSV.exe
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\bin\Debug\DangKyHocPhanSV.pdb
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\bin\Debug\BusinessLogicLayer.dll
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\bin\Debug\DataAccessLayer.dll
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\bin\Debug\BusinessLogicLayer.pdb
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\bin\Debug\DataAccessLayer.pdb
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.csproj.AssemblyReference.cache
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmDangKy.resources
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmDangKyMonHoc.resources
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmDangNhap.resources
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmDanhSachLopHocGV.resources
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmGiangVien.resources
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmLopSV.resources
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmQuanLyKhoaNganh.resources
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmQuanLyMonHoc.resources
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmQuanLyPhongHoc.resources
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmQuanLySinhVien.resources
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmThoiKhoaBieuSV.resources
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmTrangAdmin.resources
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmTrangGiangVien.resources
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmTrangSinhVien.resources
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.Properties.Resources.resources
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmTraCuuMonHoc.resources
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.csproj.GenerateResource.cache
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.csproj.CoreCompileInputs.cache
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.csproj.CopyComplete
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.exe
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.pdb
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmDoiMatKhauSV.resources
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmDoiMatKhauAdmin.resources
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmDoiMatKhauGV.resources
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\bin\Debug\DangKyHocPhanSV.exe.config
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\bin\Debug\DangKyHocPhanSV.exe
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\bin\Debug\DangKyHocPhanSV.pdb
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\bin\Debug\BusinessLogicLayer.dll
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\bin\Debug\DataAccessLayer.dll
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\bin\Debug\DataAccessLayer.pdb
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.csproj.AssemblyReference.cache
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmDoiMatKhauAdmin.resources
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmDoiMatKhauGV.resources
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmDangKy.resources
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmDangKyMonHoc.resources
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmDangNhap.resources
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmDanhSachLopHocGV.resources
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmDoiMatKhauSV.resources
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmGiangVien.resources
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmLopSV.resources
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmQuanLyKhoaNganh.resources
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmQuanLyMonHoc.resources
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmQuanLyPhongHoc.resources
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmQuanLySinhVien.resources
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmThoiKhoaBieuSV.resources
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmTrangAdmin.resources
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmTrangGiangVien.resources
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmTrangSinhVien.resources
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.Properties.Resources.resources
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.FrmTraCuuMonHoc.resources
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.csproj.GenerateResource.cache
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.csproj.CoreCompileInputs.cache
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.csproj.CopyComplete
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.exe
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\DangKyHocPhanSV\obj\Debug\DangKyHocPhanSV.pdb

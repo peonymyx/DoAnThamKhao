@@ -1,0 +1,27 @@
+D:\Workspace\HCSDL\DangKyHocPhanSV\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Workspace\HCSDL\DangKyHocPhanSV\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Workspace\HCSDL\DangKyHocPhanSV\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\Workspace\HCSDL\DangKyHocPhanSV\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\Workspace\HCSDL\DangKyHocPhanSV\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Workspace\HCSDL\DangKyHocPhanSV\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Workspace\HCSDL\DangKyHocPhanSV\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+D:\Workspace\HCSDL\DangKyHocPhanSV\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\Workspace\HCSDL\DangKyHocPhanSV\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\Private\Documents\Nam3\Hệ quản trị CSDL\Đồ án cuối kì\DangKyHocPhanSV\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\itvip\OneDrive\Desktop\ANDROID\DoAnDangKiHocPhan\DangKyHocPhanSV\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
